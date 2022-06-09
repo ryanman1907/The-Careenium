@@ -1,5 +1,6 @@
 import pygame as pg
 from statistical_mentalics import *
+from simmballism import *
 
 background_color = "black"
 
