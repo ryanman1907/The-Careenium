@@ -1,2 +1,2 @@
 # The-Careenium
-This is a realization of Douglas Hofstadter's "Careenium" as described in his book I Am A Strange Loop. 
+The careenium is "an elaborate frictionless pool table with not just sixteen balls on it, but myriads of extremely tiny marbles, called "sims" (an acronym for "small interacting marbles".) These sims bash into each other and also bounce off the walls, careening about rather wildly in their perfectly flat world— and since it is frictionless, they just keep on careening and careening, never stopping." - I Am A Strange Loop
