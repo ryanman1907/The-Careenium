@@ -1,4 +1,4 @@
-from driver import screen, background_color
+from thinker import screen, background_color
 import pygame as pg
 
 class Simm:
