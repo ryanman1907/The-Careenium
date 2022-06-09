@@ -1,3 +1,6 @@
 - If two simms hit each other, make them collide elastically
 - Unless they join, in which case, the two simms will be deleted and a new simm will be created
 and have velocity and momentum such that a fully inelastic collision occured
+
+- This is going to be difficult, it will hard to handle the calculation of a bunch of positions and distances
+  - how can I update thousands of numbers at once? Maybe use numpy arrays storing all the data
